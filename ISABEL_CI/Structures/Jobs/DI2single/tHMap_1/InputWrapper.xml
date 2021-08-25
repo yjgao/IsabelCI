@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root t='150' id='1' V150='13' creationTimestamp='0x17b7c02675d' V1='4' name='InputWrapper' incarnation='15'>
+<root t='150' id='1' V150='13' creationTimestamp='0x17b7c02675d' V1='4' name='InputWrapper' incarnation='16'>
   <rootElem t='167' id='8' V167='21' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' V1='4' name='root'>
     <structNode t='150' idref='1'/>
     <child t='167' id='9' V167='21' inheritsFromIncarnation='12' inheritsFromTimestamp='0x17b7c0266ff' inheritsInThisStruct='true' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='Structures/Jobs/DI2single/tHMap_1/row1.xml' V281='13' V1='4' name='row1'>
@@ -8,10 +8,9 @@
       </savedDerivedCopy>
     </child>
   </rootElem>
-  <defaultRep t='178' id='11' V178='1' V170='10' V698='1' V690='1' padOutput='true' ignoreExcluded='true' fixInvalidCharacters='true' V1='4' name='Map'>
-  </defaultRep>
   <child t='162' id='6' V1='4' name='Representations'>
-    <child t='178' idref='11'/>
+    <child t='178' id='11' V178='1' V170='10' V698='1' V690='1' padOutput='true' rowElemPath='/root' ignoreExcluded='true' fixInvalidCharacters='true' V1='4' name='Map'>
+    </child>
   </child>
   <child t='165' id='7' V1='4' name='Document Bindings'>
     <child t='166' id='12' V166='5' docType='1' V1='4' name='/root'>
