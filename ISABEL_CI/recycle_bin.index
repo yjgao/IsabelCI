@@ -2,5 +2,13 @@
 <recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
   <deletedFolders>Maps/Jobs</deletedFolders>
   <deletedFolders>Maps/Jobs/DI2single</deletedFolders>
+  <deletedFolders>Structures/Jobs</deletedFolders>
+  <deletedFolders>Structures/Jobs/DI2single</deletedFolders>
+  <deletedFolders>Structures/Jobs/DI2single/tHMap_1</deletedFolders>
   <deletedItems id="_T391EAVtEeycz6f_UQqOvw" path="Jobs/DI2single" type="MAPS"/>
+  <deletedItems id="_T0mYAAVtEeycz6f_UQqOvw" path="Jobs/DI2single/tHMap_1" type="STRUCTURES"/>
+  <deletedItems id="_Tt56IAVtEeycz6f_UQqOvw" path="Jobs/DI2single/tHMap_1" type="STRUCTURES"/>
+  <deletedItems id="_TvhDsAVtEeycz6f_UQqOvw" path="Jobs/DI2single/tHMap_1" type="STRUCTURES"/>
+  <deletedItems id="_Tw_qYAVtEeycz6f_UQqOvw" path="Jobs/DI2single/tHMap_1" type="STRUCTURES"/>
+  <deletedItems id="_TzXB4AVtEeycz6f_UQqOvw" path="Jobs/DI2single/tHMap_1" type="STRUCTURES"/>
 </recyclebin:RecycleBin>
