@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root t='190' id='1' V190='11' inStruct='Structures/Jobs/DI2single/tHMap_1/InputWrapper.xml' outStruct='Structures/Jobs/DI2single/tHMap_1/OutputWrapper.xml' nextMap='' inputStructUserName='InputWrapper' outputStructUserName='OutputWrapper' V1='4' name='tHMap_1' incarnation='115'>
+  <inputMapElem t='200' id='2' V200='8' input='true' structElemExists='true' usedCount='6' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' V1='4' name='root'>
+    <mapNode t='190' idref='1'/>
+    <child t='200' id='3' V200='8' input='true' structElemExists='true' usedCount='3' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='Structures/Jobs/DI2single/tHMap_1/row1.xml' V281='13' modifiedFromParent_io='true' V1='4' name='row1'>
+      <mapNode t='190' idref='1'/>
+      <repRuntime t='698' id='4' V698='1' V690='1' padOutput='true'>
+      </repRuntime>
+      <io>ReadURL([repName="Map"],{Start Offset},{Length})</io>
+    </child>
+  </inputMapElem>
+  <outputMapElem t='200' id='5' V200='8' structElemExists='true' usedCount='7' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' modifiedFromParent_loop='true' V1='4' name='root'>
+    <mapNode t='190' idref='1'/>
+    <loop>SimpleLoop([autoAdded="true"],in$/root,{Filter},{Sort Keys},{Contexts})</loop>
+    <child t='200' id='6' V200='8' structElemExists='true' usedCount='3' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='Structures/Jobs/DI2single/tHMap_1/aa.xml' V281='13' V1='4' name='aa'>
+      <mapNode t='190' idref='1'/>
+      <child t='200' id='7' V200='8' structElemExists='true' usedCount='3' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='Structures/typeManual.xml' V281='13' modifiedFromParent_io='true' V1='4' name='root'>
+        <mapNode t='190' idref='1'/>
+        <repRuntime t='697' id='8' V697='1' V690='1' padOutput='true'>
+        </repRuntime>
+        <io>WriteURL([repName="JSON"],{URL})</io>
+      </child>
+    </child>
+  </outputMapElem>
+  <valueSets></valueSets>
+  <child t='165' id='9' V1='4' name='Document Bindings'>
+    <child t='166' id='10' V166='5' docType='1' V1='4' name='in$/root/row1'>
+      <elemNode t='200' idref='3'/>
+    </child>
+    <child t='166' id='11' V166='5' docType='2' V1='4' name='out$/root/aa/root'>
+      <elemNode t='200' idref='7'/>
+    </child>
+  </child>
+  <child t='201' id='12' V1='4' name='Inherits From'>
+  </child>
+</root>
