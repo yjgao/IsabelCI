@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root t='190' id='1' V190='11' inStruct='Structures/Jobs/DI2single/tHMap_1/InputWrapper.xml' outStruct='Structures/typeManual.xml' outputRep='177' nextMap='' inputStructUserName='InputWrapper' outputStructUserName='typeManual' V1='4' name='tHMap_1' incarnation='109'>
+  <inputMapElem t='200' id='2' V200='8' input='true' structElemExists='true' usedCount='6' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' V1='4' name='root'>
+    <mapNode t='190' idref='1'/>
+    <child t='200' id='3' V200='8' input='true' structElemExists='true' usedCount='3' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='Structures/Jobs/DI2single/tHMap_1/row1.xml' V281='13' modifiedFromParent_io='true' V1='4' name='row1'>
+      <mapNode t='190' idref='1'/>
+      <repRuntime t='698' id='4' V698='1' V690='1' padOutput='true'>
+      </repRuntime>
+      <io>ReadURL([repName="Map"],{Start Offset},{Length})</io>
+    </child>
+  </inputMapElem>
+  <outputMapElem t='200' id='5' V200='8' structElemExists='true' usedCount='4' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' modifiedFromParent_loop='true' V1='4' name='msg'>
+    <mapNode t='190' idref='1'/>
+    <loop>SimpleLoop([autoAdded="true"],in$/root,{Filter},{Sort Keys},{Contexts})</loop>
+    <child t='200' id='6' V200='8' structElemExists='true' usedCount='1' V283='2' occurMaxTimes='-1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' V1='4' name='rows'>
+      <mapNode t='190' idref='1'/>
+      <child t='200' id='7' V200='8' structElemExists='true' usedCount='1' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' dataType='2' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' V1='4' name='name'>
+        <mapNode t='190' idref='1'/>
+      </child>
+      <child t='200' id='8' V200='8' structElemExists='true' usedCount='1' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' dataType='2' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' V1='4' name='address'>
+        <mapNode t='190' idref='1'/>
+      </child>
+      <child t='200' id='9' V200='8' structElemExists='true' usedCount='1' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' dataType='2' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' V1='4' name='email'>
+        <mapNode t='190' idref='1'/>
+      </child>
+      <child t='200' id='10' V200='8' structElemExists='true' usedCount='1' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' dataType='2' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' V1='4' name='phone'>
+        <mapNode t='190' idref='1'/>
+      </child>
+      <child t='200' id='11' V200='8' structElemExists='true' usedCount='1' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' dataType='2' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' V1='4' name='note'>
+        <mapNode t='190' idref='1'/>
+      </child>
+    </child>
+  </outputMapElem>
+  <outputRepRuntime t='697' id='12' V697='1' V690='1' padOutput='true'>
+  </outputRepRuntime>
+  <valueSets></valueSets>
+  <outputXmlRepRuntime t='692' id='13' V692='1' V690='1'>
+  </outputXmlRepRuntime>
+  <child t='165' id='14' V1='4' name='Document Bindings'>
+    <child t='166' id='15' V166='5' docType='1' docReposPath='/ISABEL_CI/Sample Data/Jobs/DI2single/tHMap_1/row1/in.txt' V1='4' name='in$/root/row1'>
+      <elemNode t='200' idref='3'/>
+    </child>
+    <child t='166' id='16' V166='5' docType='2' V1='4' name='out$/msg'>
+      <elemNode t='200' idref='5'/>
+    </child>
+  </child>
+  <child t='201' id='17' V1='4' name='Inherits From'>
+  </child>
+</root>
