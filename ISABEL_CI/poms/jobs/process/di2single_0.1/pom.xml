@@ -154,6 +154,11 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
+      <artifactId>talendcsv</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
       <artifactId>tdm-eclipse-7.3.1-20210710_0609</artifactId>
       <version>7.3.1</version>
     </dependency>

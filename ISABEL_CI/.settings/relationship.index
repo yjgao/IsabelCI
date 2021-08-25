@@ -9,4 +9,26 @@
     "version" : "Latest",
     "type" : "mapper"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_gKZ3EAVtEeycz6f_UQqOvw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_gKZ3EAVtEeycz6f_UQqOvw",
+    "version" : "0.1",
+    "type" : "test_case"
+  },
+  "relatedItems" : [ {
+    "id" : "_FY7_sAVtEeycz6f_UQqOvw",
+    "version" : "0.1",
+    "type" : "test_case"
+  } ]
 } ]
