@@ -1,1 +1,38 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_C_zBQAVxEeycz6f_UQqOvw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_xyd58AVtEeycz6f_UQqOvw",
+    "version" : "Latest",
+    "type" : "resource"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_FY7_sAVtEeycz6f_UQqOvw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6eDpsAVwEeycz6f_UQqOvw",
+    "version" : "Latest",
+    "type" : "mapper"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_C_zBQAVxEeycz6f_UQqOvw",
+    "version" : "0.1",
+    "type" : "test_case"
+  },
+  "relatedItems" : [ {
+    "id" : "_FY7_sAVtEeycz6f_UQqOvw",
+    "version" : "0.1",
+    "type" : "test_case"
+  } ]
+} ]
