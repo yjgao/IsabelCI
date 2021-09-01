@@ -50,37 +50,4 @@
     "version" : "Latest",
     "type" : "context"
   } ]
-}, {
-  "baseItem" : {
-    "id" : "_C_zBQAVxEeycz6f_UQqOvw",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_FY7_sAVtEeycz6f_UQqOvw",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_DbBPkAVvEeycz6f_UQqOvw",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_FY7_sAVtEeycz6f_UQqOvw",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_gKZ3EAVtEeycz6f_UQqOvw",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_FY7_sAVtEeycz6f_UQqOvw",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
 } ]
