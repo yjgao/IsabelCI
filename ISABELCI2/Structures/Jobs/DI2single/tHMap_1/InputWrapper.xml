@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root t='150' id='1' V150='13' creationTimestamp='0x17b7c143a49' V1='4' name='InputWrapper' incarnation='8'>
+  <rootElem t='167' id='2' V167='21' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='' V281='13' V1='4' name='root'>
+    <structNode t='150' idref='1'/>
+    <child t='167' id='3' V167='21' inheritsFromIncarnation='7' inheritsFromTimestamp='0x17b7c1439c4' inheritsInThisStruct='true' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' groupType='1' repHandlerStruct='' visible='true' inheritsFrom='Structures/Jobs/DI2single/tHMap_1/row1.xml' V281='13' V1='4' name='row1'>
+      <structNode t='150' idref='1'/>
+      <savedDerivedCopy t='167' id='4' V167='21' needInheritInit='true' inheritsInThisStruct='true' V283='2' occurMaxTimes='1' minSize='-1' maxSize='-1' dataType='2' repHandlerStruct='' visible='true' inheritsFrom='Structures/Jobs/DI2single/tHMap_1/row1.xml' V281='13' V1='4' name='row1'>
+      </savedDerivedCopy>
+    </child>
+  </rootElem>
+  <child t='162' id='6' V1='4' name='Representations'>
+    <child t='178' id='5' V178='1' V170='10' V698='1' V690='1' padOutput='true' rowElemPath='/root' ignoreExcluded='true' fixInvalidCharacters='true' V1='4' name='Map'>
+    </child>
+  </child>
+  <child t='165' id='7' V1='4' name='Document Bindings'>
+  </child>
+</root>
