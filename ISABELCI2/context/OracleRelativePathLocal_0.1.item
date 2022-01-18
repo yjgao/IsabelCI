@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_nWpQIHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="&quot;/v1/secret/oil_db/dev&quot;" xmi:id="_nWpQIXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DV02" xmi:id="_nWpQInW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="&quot;/v1/secret/oil_db/dev&quot;" xmi:id="_nWpQI3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PR02" xmi:id="_nWpQJHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="&quot;/v1/secret/oil_db/dev&quot;" xmi:id="_nWpQJXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="ST01" xmi:id="_nWpQJnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="&quot;/v1/secret/oil_db/dev&quot;" xmi:id="_nWpQJ3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="ST02" xmi:id="_nWpQKHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="&quot;/v1/secret/oil_db/dev&quot;" xmi:id="_nWpQKXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS02" xmi:id="_nWpQKnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_nWpQK3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS03" xmi:id="_nWpQLHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="&quot;/v1/secret/oil_db/demo&quot;" xmi:id="_nWpQLXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS05" xmi:id="_nWpQLnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="&quot;/v1/secret/oil_db/pat&quot;" xmi:id="_nWpQL3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS06" xmi:id="_nWpQMHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="&quot;/v1/secret/oil_db/sc_test&quot;" xmi:id="_nWpQMXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS09" xmi:id="_nWpQMnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="&quot;/v1/secret/oil_db/mt_mo&quot;" xmi:id="_nWpQM3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS11" xmi:id="_nWpQNHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="" xmi:id="_nWpQNXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS12" xmi:id="_nWpQNnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" type="id_String" value="" xmi:id="_nWpQN3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_65833540-d777-4213-852f-d1f7c1df5827"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>9e+enVA/F25TqBBsgYMIqcR+VRKgfaFByLAOFDy8so2tILozP9Ura+GkU3F0rVqqQ2NIjBzo8i/s&#13;
+YMKBlkLMTA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_72aaf3e8-c4bc-4cdf-ab7a-c3682777daad"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>nqB5JqGe8qPU4JdJsL/bnTWgdaiYIAe75n0Q9Ddm6LtsEmjNOrnWukizhCPnDoAG96yAQ3UyZ9/t&#13;
+BN1DAIvbIg==</DigestValue></Reference></SignedInfo><SignatureValue>S9AW1kFRkqTrFuK6epn3SQfid9HZ6xXuKCwTFolFDxjKbOH4FVHRK/QQU4xB6oPySxmkrJIsvpt5&#13;
+++zIywI1MqhVhb6RsiDxdaqkGnrdSc+DBRZqMBtMeezbFPJAOp8s2VAB05+zBbdPuf1M3Vko3Rr/&#13;
+H/+ECqYiNxrAsvLLWUIDXRXlOoMWJMM/N2nUZtxq3CgHROFsxzL6PmqX3bEIW5XGExYO6LK6aKR8&#13;
+qZcPHwFQvi0Ha2zTKDSLOnLUvuABExSgMgfcHO2NRX4DnZwMAQHOS+/TO6ktPs30VPulFTFjh/GV&#13;
+SnkqroubElV3HHGZitEf9Kcao46fyDOpIR+/Gw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_72aaf3e8-c4bc-4cdf-ab7a-c3682777daad" Target="#_65833540-d777-4213-852f-d1f7c1df5827"><Timestamp>2022-01-18 07:59:38</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

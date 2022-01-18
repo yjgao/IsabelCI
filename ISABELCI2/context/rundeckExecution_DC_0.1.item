@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_naw7IHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7IXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7InW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv0013-omms_dev" xmi:id="_naw7I3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv0013/omms_dev" xmi:id="_naw7JHW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_naw7JXW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7JnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7J3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv0013-omms_dev" xmi:id="_naw7KHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv0013/omms_dev" xmi:id="_naw7KXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV_MT" xmi:id="_naw7KnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7K3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7LHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv0013-omms_dev" xmi:id="_naw7LXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv0013/omms_dev" xmi:id="_naw7LnW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="MO_MT" xmi:id="_naw7L3W2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7MHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7MXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv0405-omms_demo" xmi:id="_naw7MnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv0405/omms_demo" xmi:id="_naw7M3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PR01" xmi:id="_naw7NHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7NXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7NnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv3709-omms_prod" xmi:id="_naw7N3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv3709/omms_prod" xmi:id="_naw7OHW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="SB_MT" xmi:id="_naw7OXW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7OnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7O3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv0013-omms_uat" xmi:id="_naw7PHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv0013/omms_uat" xmi:id="_naw7PXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="ST01" xmi:id="_naw7PnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7P3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7QHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv3708-omms_stage1" xmi:id="_naw7QXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv3708/omms_stage1" xmi:id="_naw7QnW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="STG_MT" xmi:id="_naw7Q3W2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7RHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7RXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv3708-omms_stage1" xmi:id="_naw7RnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv3708/omms_stage1" xmi:id="_naw7R3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TST" xmi:id="_naw7SHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7SXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7SnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv0015-omms_qa" xmi:id="_naw7S3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv0015/omms_qa" xmi:id="_naw7THW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TST_MT" xmi:id="_naw7TXW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7TnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7T3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv0015-omms_qa" xmi:id="_naw7UHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv0015/omms_qa" xmi:id="_naw7UXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="UAT_MT" xmi:id="_naw7UnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="rundeckExecution" prompt="rundeckExecution?" promptNeeded="false" type="id_String" value="N" xmi:id="_naw7U3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckMntPoint" prompt="rundeckMntPoint?" promptNeeded="false" type="id_String" value="RD_NAS" xmi:id="_naw7VHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="rundeckFileShare" prompt="rundeckFileShare?" promptNeeded="false" type="id_String" value="/nasv3708-omms_UAT" xmi:id="_naw7VXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="winFileShare" prompt="winFileShare?" promptNeeded="false" type="id_String" value="//nasv3708/omms_UAT" xmi:id="_naw7VnW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_15233455-1d59-4735-bed4-d15fb542ec3d"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>XWgxDu8PAFovnZeHc2H3Sbf5lcUC+YnYp6DaulI+JUVtRxOAtnIrbq+eAHzribTmNSl29vP7M+fg&#13;
+8LFagFPv6g==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_0922d88f-66d5-43f9-b75f-1692d686bf80"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>nWe9lENlwLdRFWFZyhGuFsVHUcBvQ+KR4jKb04R+FOFYr+df6+4u/3pZZ7oPURJA1qN6ndRCwFmx&#13;
+1JGtNEe2tg==</DigestValue></Reference></SignedInfo><SignatureValue>TmMJsJilTcfdW9sWFn2b955Nt0LXFBJv4ZKRRALlBhBByYYlE1dX6ipTcmqTFjYtbhpwQ1u/gglO&#13;
+NXNflAmcEE/qSEa0GGhdXzhAsKls/KmcN2l/adhPA8LwL+RB7kE7GyfHyIwGCSQRwItBcePeA4h5&#13;
+CU1G96YTEhnfWHM09+FpAZnVxGz/409wRP1rlnhli1rHv8kflzeMxQiu+0YMHqY9gkEM2aDtPNqM&#13;
+LBjJ5wxkFK7v5BkjLufQUX+doQWmviYjrjTSKCB5+/PsB05/WZfvk5ugdBWbMBv+HjqvG3yEqtb0&#13;
+xkw0aiZJ0EGqaeho7HFBqO/f0qMws65JkdIT2w==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_0922d88f-66d5-43f9-b75f-1692d686bf80" Target="#_15233455-1d59-4735-bed4-d15fb542ec3d"><Timestamp>2022-01-18 07:59:39</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
