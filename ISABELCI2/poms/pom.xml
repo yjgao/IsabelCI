@@ -11,6 +11,9 @@
   <modules>
     <module>code/beans</module>
     <module>code/routines</module>
+    <module>jobs/joblets/logprocessing_0.1</module>
+    <module>jobs/process/Claims/int_837iclm_ext_0.3</module>
+    <module>jobs/process/DataConversion/vaultsecrets_0.1</module>
     <module>jobs/process/di2single_0.1</module>
   </modules>
   <properties>

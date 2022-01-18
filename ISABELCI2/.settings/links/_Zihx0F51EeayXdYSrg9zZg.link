@@ -1,0 +1,29 @@
+{
+  "itemId" : "_Zihx0F51EeayXdYSrg9zZg",
+  "contextList" : [ {
+    "contextName" : "DV02",
+    "repoId" : "_j_rQsF52EeayXdYSrg9zZg",
+    "parameterList" : [ {
+      "id" : "_nVYr4XW2EeuPWvEq9TKrig",
+      "name" : "FacetsCombineConnection_AdditionalParams"
+    }, {
+      "id" : "_nVYr4nW2EeuPWvEq9TKrig",
+      "name" : "FacetsCombineConnection_Port"
+    }, {
+      "id" : "_nVYr43W2EeuPWvEq9TKrig",
+      "name" : "FacetsCombineConnection_Server"
+    }, {
+      "id" : "_nVYr5HW2EeuPWvEq9TKrig",
+      "name" : "FacetsCombineConnection_Login"
+    }, {
+      "id" : "_nVYr5XW2EeuPWvEq9TKrig",
+      "name" : "FacetsCombineConnection_ServiceName"
+    }, {
+      "id" : "_nVYr5nW2EeuPWvEq9TKrig",
+      "name" : "FacetsCombineConnection_Password"
+    }, {
+      "id" : "_nVYr53W2EeuPWvEq9TKrig",
+      "name" : "FacetsCombineConnection_Schema"
+    } ]
+  } ]
+}
