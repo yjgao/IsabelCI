@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_nZJxkHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0013/omms_dev/OMMS/" xmi:id="_nZJxkXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_nZJxknW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0013/omms_dev/OMMS/" xmi:id="_nZJxk3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV_MT" xmi:id="_nZJxlHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0013/omms_dev/OMMS/" xmi:id="_nZJxlXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DV02" xmi:id="_nZJxlnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0013/omms_dev/OMMS/" xmi:id="_nZJxl3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="MO_MT" xmi:id="_nZJxmHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0405/omms_demo/OMMS/" xmi:id="_nZJxmXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PR01" xmi:id="_nZJxmnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:/OMMS/" xmi:id="_nZJxm3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="SB_MT" xmi:id="_nZJxnHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0013/omms_uat/OMMS/" xmi:id="_nZJxnXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="ST01" xmi:id="_nZJxnnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:/OMMS/" xmi:id="_nZJxn3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="ST02" xmi:id="_nZJxoHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv3708/omms_uat/OMMS/" xmi:id="_nZJxoXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="ST03" xmi:id="_owPHkDcJEey2ZbV4IjQcNQ">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv3708/omms_uat/OMMS/" xmi:id="_owPHkTcJEey2ZbV4IjQcNQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS02" xmi:id="_nZJxonW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0015/omms_qa/OMMS/" xmi:id="_nZJxo3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS03" xmi:id="_nZJxpHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0405/omms_demo/OMMS/" xmi:id="_nZJxpXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS05" xmi:id="_nZJxpnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0013/omms_uat/OMMS/" xmi:id="_nZJxp3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS06" xmi:id="_nZJxqHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0015/omms_qa/OMMS/" xmi:id="_nZJxqXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS07" xmi:id="_nZJxqnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0013/omms_dev/OMMS/" xmi:id="_nZJxq3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS08" xmi:id="_nZJxrHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0015/omms_qa/OMMS/" xmi:id="_nZJxrXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS09" xmi:id="_nZJxrnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0405/omms_demo/OMMS/" xmi:id="_nZJxr3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TST" xmi:id="_nZJxsHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0015/omms_qa/OMMS/" xmi:id="_nZJxsXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TST_MT" xmi:id="_nZJxsnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv0015/omms_qa/OMMS/" xmi:id="_nZJxs3W2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="UAT_MT" xmi:id="_nZJxtHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="TalendLogLocation" prompt="TalendLogLocation?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="//nasv3708/omms_UAT/OMMS/" xmi:id="_nZJxtXW2EeuPWvEq9TKrig"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_5a3f39e4-0a4e-4bd8-8f07-2e41bc4ed993"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>wPCGwFBhhNoslpAJtuk5NM4JYWuEaTjuuY97cJbZgPI1xFwquffti/x7Vm3CZULbzgScB9ceL0pM&#13;
+uyLK3i3Ygg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_70772bfe-6bf3-4975-9405-0daece6153fb"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>0OMFp9YIYBuKWps/mpxVY+q1lrxQn7ZtMxN/F3To2bZm6SrQb1YgN4AREu73UhiOdMEL7y+2MwTU&#13;
+/Rgh1Tn75w==</DigestValue></Reference></SignedInfo><SignatureValue>ARrIj8O/RAE7a5zanXt3bxixECzwDNldmC7+F44WLUtAvN7Fw0lLKKMYAEUVOfCs06fTLfch8EVW&#13;
+C0+dMuiP6jAJJ8fVjux7CzWSGhGoKTpZoUCYIZjdFtyRZ/d1+hsGKyWRRM+mrcVEISEvPAqIeYPp&#13;
+K6K6dXjAtBtS7+7LytK2GoWK2q6WcZ08oCgQO6yY1PizaQDbpFofGtUvdWJ4hfbI7hBU0Yg009Jc&#13;
+w68fmAC/ANO0CR/mGVUIY8YWQi2HQAfflm2TkvBKjEOUEH53TGEP/gCJDLshsqvbqiQZV5ebTMy0&#13;
+BukVBEoWM9TxjPde43OUe77v50OQWSBgAoVD2A==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_70772bfe-6bf3-4975-9405-0daece6153fb" Target="#_5a3f39e4-0a4e-4bd8-8f07-2e41bc4ed993"><Timestamp>2022-01-18 08:05:53</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

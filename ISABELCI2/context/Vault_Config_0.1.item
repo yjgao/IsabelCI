@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_nZ4xYHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xYXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/dev&quot;" xmi:id="_nZ4xYnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/dev&quot;" xmi:id="_nZ4xY3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xZHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xZXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_kRT94CBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_nZ4xZnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xZ3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/dev&quot;" xmi:id="_nZ4xaHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/dev&quot;" xmi:id="_nZ4xaXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xanW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xa3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_kRT94SBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV_MT" xmi:id="_nZ4xbHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xbXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/mt_dev&quot;" xmi:id="_nZ4xbnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/mt_dev&quot;" xmi:id="_nZ4xb3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xcHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xcXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_kRT94iBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DV02" xmi:id="_nZ4xcnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xc3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/dev&quot;" xmi:id="_nZ4xdHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/dev&quot;" xmi:id="_nZ4xdXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xdnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xd3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/dev&quot;" xmi:id="_kRT94yBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="MO_MT" xmi:id="_nZ4xeHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xeXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/mt_mo&quot;" xmi:id="_nZ4xenW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/mt_mo&quot;" xmi:id="_nZ4xe3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xfHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xfXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_kRT95CBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PR01" xmi:id="_nZ4xfnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;http://1002apfrs00078.optumfe.com:8200&quot;" xmi:id="_nZ4xf3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/Prod&quot;" xmi:id="_nZ4xgHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/Prod&quot;" xmi:id="_nZ4xgXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSIUN1cmjChJ7hubBvryZS4rHUm6krTjO1ELGuYf8CvZUdL/NDBFs4kE&quot;" xmi:id="_nZ4xgnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xg3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/dev&quot;" xmi:id="_kRT95SBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="SB_MT" xmi:id="_nZ4xhHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xhXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/dev&quot;" xmi:id="_nZ4xhnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/dev&quot;" xmi:id="_nZ4xh3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xiHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xiXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_kRT95iBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="ST01" xmi:id="_nZ4xinW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;http://1002apfrs00078.optumfe.com:8200&quot;" xmi:id="_nZ4xi3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/Stage&quot;" xmi:id="_nZ4xjHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/Stage&quot;" xmi:id="_nZ4xjXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSIUN1cmjChJ7hubBvryZS4rHUm6krTjO1ELGuYf8CvZUdL/NDBFs4kE&quot;" xmi:id="_nZ4xjnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xj3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/dev&quot;" xmi:id="_kRT95yBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="ST02" xmi:id="_nZ4xkHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;http://1002apfrs00078.optumfe.com:8200&quot;" xmi:id="_nZ4xkXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/UAT&quot;" xmi:id="_nZ4xknW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/UAT&quot;" xmi:id="_nZ4xk3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSIUN1cmjChJ7hubBvryZS4rHUm6krTjO1ELGuYf8CvZUdL/NDBFs4kE&quot;" xmi:id="_nZ4xlHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xlXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/dev&quot;" xmi:id="_kRT96CBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="ST03" xmi:id="_YE_c0DcKEey2ZbV4IjQcNQ">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https\://omms-vault-uat.ocp-ctc-ofe-nonprod.optumfe.com&quot;" xmi:id="_YE_c0TcKEey2ZbV4IjQcNQ"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/sc_uat&quot;" xmi:id="_YE_c0jcKEey2ZbV4IjQcNQ"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/sc_uat&quot;" xmi:id="_YE_c0zcKEey2ZbV4IjQcNQ"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJMGA44ymRVkyGKa/2MNEcCJWmqxp7KJ0FvfoxmZUtgIbYe0QT49yWI&quot;" xmi:id="_YE_c1DcKEey2ZbV4IjQcNQ"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_YE_c1TcKEey2ZbV4IjQcNQ"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_YE_c1jcKEey2ZbV4IjQcNQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="STG_MT" xmi:id="_nZ4xlnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;http://1002apfrs00078.optumfe.com:8200&quot;" xmi:id="_nZ4xl3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/Stage&quot;" xmi:id="_nZ4xmHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/Stage&quot;" xmi:id="_nZ4xmXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSIUN1cmjChJ7hubBvryZS4rHUm6krTjO1ELGuYf8CvZUdL/NDBFs4kE&quot;" xmi:id="_nZ4xmnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xm3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_kRT96SBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS02" xmi:id="_nZ4xnHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xnXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/test&quot;" xmi:id="_nZ4xnnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/test&quot;" xmi:id="_nZ4xn3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xoHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xoXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_kRT96iBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS03" xmi:id="_nZ4xonW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xo3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/mt_dev&quot;" xmi:id="_nZ4xpHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/mt_dev&quot;" xmi:id="_nZ4xpXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xpnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xp3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/demo&quot;" xmi:id="_kRT96yBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS05" xmi:id="_nZ4xqHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xqXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/uat&quot;" xmi:id="_nZ4xqnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/uat&quot;" xmi:id="_nZ4xq3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xrHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xrXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/pat&quot;" xmi:id="_kRT97CBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS06" xmi:id="_nZ4xrnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xr3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/mt_tst&quot;" xmi:id="_nZ4xsHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/mt_tst&quot;" xmi:id="_nZ4xsXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xsnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xs3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/sc_test&quot;" xmi:id="_kRT97SBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS08" xmi:id="_nZ4xtHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xtXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/mt_tst&quot;" xmi:id="_nZ4xtnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/mt_tst&quot;" xmi:id="_nZ4xt3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xuHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xuXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/dev&quot;" xmi:id="_kRT97iBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TS09" xmi:id="_nZ4xunW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xu3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/mt_mo&quot;" xmi:id="_nZ4xvHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/mt_mo&quot;" xmi:id="_nZ4xvXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xvnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xv3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/mt_mo&quot;" xmi:id="_kRT97yBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TST" xmi:id="_nZ4xwHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xwXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/test&quot;" xmi:id="_nZ4xwnW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/test&quot;" xmi:id="_nZ4xw3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xxHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xxXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_kRT98CBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="TST_MT" xmi:id="_nZ4xxnW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;https://omms-vault-nonprod.ocp-ctc-core-nonprod.optum.com&quot;" xmi:id="_nZ4xx3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/mt_tst&quot;" xmi:id="_nZ4xyHW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/mt_tst&quot;" xmi:id="_nZ4xyXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSJPLg8WjElHjFzwGp/sWnobJU2joMPkDk1e1kuENkpJZtAtaz3x1cth&quot;" xmi:id="_nZ4xynW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4xy3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_kRT98SBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="UAT_MT" xmi:id="_nZ4xzHW2EeuPWvEq9TKrig">
+    <contextParameter comment="" name="VaultURL" prompt="VaultURL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;http://1002apfrs00078.optumfe.com:8200&quot;" xmi:id="_nZ4xzXW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="MySQLRelativePath" prompt="MySQLRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/mysql_dc/UAT&quot;" xmi:id="_nZ4xznW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePath" prompt="OracleRelativePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/database_kv/oracle_dc/UAT&quot;" xmi:id="_nZ4xz3W2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="EncryptedVaultToken" prompt="EncryptedVaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;SSIUN1cmjChJ7hubBvryZS4rHUm6krTjO1ELGuYf8CvZUdL/NDBFs4kE&quot;" xmi:id="_nZ4x0HW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="VaultToken" prompt="VaultToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_nZ4x0XW2EeuPWvEq9TKrig"/>
+    <contextParameter comment="" name="OracleRelativePathLocal" prompt="OracleRelativePathLocal?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/v1/secret/oil_db/test&quot;" xmi:id="_kRT98iBPEeyiy9vfBKW21w"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_a714f4e4-7819-4306-b0ae-b12c4e7d0278"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Gabjx+iULbT3opaC+FzpGV8hAaq7V8iez46bzbM+NabmL6VXwOB0QVhE3mYEGLRFnZUNESsJGLWs&#13;
+Y7tc+CAkew==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_37164ce8-2896-4e5c-a8b1-aa5eb85ce6dc"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>0/DrnPYiieGIE4Vz4RP1VxzRJuxaSlyLiaDgUwWf2c87zVkspf3ZKRAe5cvtqfFdHgdSbLLo25Ik&#13;
+wIeKpnZz+w==</DigestValue></Reference></SignedInfo><SignatureValue>Yg5l3yTJRsQ6j+1BYXWEC3m+OGhLmyd6Qk/PB1itbD9o0Qg5bgVrxJ/IojRCHobxFhiWROcXbcl+&#13;
+M9aemEZk8xEOomS+qO/ULzLpijXqeFus+8euF79MkzSUI4UBW8q0t7bY9PuFEdV1xXhIlZkCbOXZ&#13;
+7on1/6BOWRxa0bDMSZwBVHTCOav+K8JKHrmVbjd2SlxhNiqEJa6etD2o8ZRiUxbZyGVUy6Hxt/03&#13;
+cCMAhQRKXfUEslr5KL63Fk75M2maNyLD93fgj9GZ22H9u5qw88jHtZJ0J59jXt0SnJikKzxDH7O+&#13;
+trMeGGWx0yJkuZwQVj82MBAMAhC9Kf2aaolU3w==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_37164ce8-2896-4e5c-a8b1-aa5eb85ce6dc" Target="#_a714f4e4-7819-4306-b0ae-b12c4e7d0278"><Timestamp>2022-01-18 08:05:53</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
