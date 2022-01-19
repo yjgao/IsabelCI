@@ -17,12 +17,12 @@
     <module>jobs/process/di2single_0.1</module>
   </modules>
   <properties>
-    <signer.version>7.3.2</signer.version>
     <talend.project.name>ISABELCI2</talend.project.name>
-    <encoding>UTF-8</encoding>
-    <maven.deploy.skip>true</maven.deploy.skip>
     <talend.docker.tag>${project.version}</talend.docker.tag>
+    <encoding>UTF-8</encoding>
+    <signer.version>7.3.2</signer.version>
     <talend.docker.name>${talend.project.name.lowercase}/${talend.job.folder}%a</talend.docker.name>
+    <maven.deploy.skip>true</maven.deploy.skip>
   </properties>
   <build>
     <pluginManagement>
